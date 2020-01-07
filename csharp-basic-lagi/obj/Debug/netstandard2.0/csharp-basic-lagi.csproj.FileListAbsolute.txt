@@ -1,0 +1,8 @@
+D:\coba_dotnet\csharp-basic-lagi\bin\Debug\netstandard2.0\csharp-basic-lagi.deps.json
+D:\coba_dotnet\csharp-basic-lagi\bin\Debug\netstandard2.0\csharp-basic-lagi.dll
+D:\coba_dotnet\csharp-basic-lagi\bin\Debug\netstandard2.0\csharp-basic-lagi.pdb
+D:\coba_dotnet\csharp-basic-lagi\obj\Debug\netstandard2.0\csharp-basic-lagi.csprojAssemblyReference.cache
+D:\coba_dotnet\csharp-basic-lagi\obj\Debug\netstandard2.0\csharp-basic-lagi.AssemblyInfoInputs.cache
+D:\coba_dotnet\csharp-basic-lagi\obj\Debug\netstandard2.0\csharp-basic-lagi.AssemblyInfo.cs
+D:\coba_dotnet\csharp-basic-lagi\obj\Debug\netstandard2.0\csharp-basic-lagi.dll
+D:\coba_dotnet\csharp-basic-lagi\obj\Debug\netstandard2.0\csharp-basic-lagi.pdb
